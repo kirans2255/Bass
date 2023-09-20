@@ -1,0 +1,272 @@
+*
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box; 
+}
+.navbar{
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+.logo{
+    padding-top: 6px;
+    padding-left: 30px;
+}
+.searchbar{
+    margin-top: -35px;
+    margin-left: 500px;  
+}
+.searchbar input{
+    color: rgb(136, 130, 130);
+    width: 350px;
+    height: 29px;
+    border-style: outset;
+    background-color: black;
+}
+.login{
+    margin-top: -36px;
+    margin-left: 1370px;
+}
+.log{
+    background-color: rgb(59, 59, 59);
+    border-style: none;
+    height: 36px;
+    width:100px;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+}
+.signup{
+    margin-top: -28px;
+    margin-left: 1389.5px;
+    font-size: 17px;
+
+}
+.mainbody1{
+    background-color: black;
+}
+.body1{
+    padding-top: 50px;
+}
+.video{
+    margin-top: -380px;
+    margin-left: 106px;
+}
+.img
+{
+    margin-top: 10px;
+}
+.mainbody2{
+    background-color: black;
+    height: 400px;
+}
+.body3{
+    margin-left: 60px;
+    padding-top:30px;
+    display: flex;
+    gap: 80px;
+    height: 58%;
+    width: 58%;
+}
+.line1{
+    margin-top:50px;
+    border-top: 4px solid ;
+    width: 1200px;
+    margin-left:135px;
+    border-radius:2px;
+    border-color: grey;
+}
+.valorant{
+    color: rgb(235, 20, 20);
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 25px;
+}
+.mainbody3{
+    height: 400px;
+    background-color: black;
+}
+.bgmi{
+    color: blueviolet;
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 25px;
+}
+.body4{
+    margin-left: 50px;
+    padding-top:10px;
+    display: flex;
+    gap: 10px;
+}
+.line2{
+    margin-top:40px;
+    border: 4px 4px 4px 4px solid ;
+    width: 1800px;
+    margin-left:135px;
+    border-radius:2px;
+    border-color: rgb(17, 185, 90);
+}
+.h22{
+    color: rgb(255, 255, 255);
+    margin-top: -650px;
+    padding-left:120px;
+    font-size: 40px;
+}
+.h23{
+    padding-left: 120px;
+    padding-top: 25px;
+    line-height: 40px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+.mainbody4{
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+}
+.games{
+    display: grid;
+    grid-template-columns: 210px 220px 250px 250px 250px;
+    gap: 30px;
+    padding-top: 80px;
+    padding-left: 130px;
+}
+.Sept{
+    color: white;
+    padding-top: 80px;
+    padding-left: 130px;
+    font-size: 30px;
+}
+.text1{
+    color: white;
+    padding-top: 10px;
+    padding-left: 95px;
+}
+.text1 ul{
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: 210px 220px 250px 250px 250px;
+    gap: 30px;
+}
+.kk{
+    margin-top:-480px;
+    border-top: 4px solid ;
+    width: 1200px;
+    margin-left:135px;
+    border-radius:2px;
+    border-color: grey;
+}
+.mainbody5{
+    background-color: rgb(255, 255, 255);
+}
+.audio{
+    margin-left: 610px;
+    background-color: white;
+    width: 300px;
+    height: 40px;
+    margin-top: -60px;
+}
+.mainbody6{
+    height: 500px;
+}
+.ps5{
+    color: rgb(99, 9, 215);
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 40px;
+}
+.ps6{
+    margin-top: 50px;
+    margin-left: 860px;
+    font-size: 18px;
+    line-height: 40px;
+}
+.video35{
+    margin-top: -320px;
+    margin-left: 100px;
+}
+.h22{
+    margin-top: -600px;
+}
+.mainbody8{
+    background-color: rgb(32, 32, 32);
+    height: 1100px;
+}
+.lastimg{
+    margin-top: 200px;
+    margin-left: 80px;
+}
+.l34{
+    font-size: 24px;
+    color: white;
+    margin-top: -800px;
+    margin-left: 80px;
+}
+.li34{
+    display: flex;
+    color: white;
+    gap: 40px;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.li34 li:hover{
+    color: yellow;
+}
+.table{
+    font-size: 24px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 80px;   
+}
+.table th{
+    font-size: 24px;
+}
+.table td{
+    font-size: 17px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.table td:hover{
+    color: yellow;
+}
+
+.li44 li:hover{
+    color: yellow;
+}
+.lastone3{
+    padding-top: 480px;
+    padding-left: 90px;
+    letter-spacing: 20px;
+}
+.lastone3 :hover{
+    color: yellow;
+}
+.lastone4{
+    margin-top: -430px;
+    margin-left: 80px;
+    color: white;
+}
+.lastone5{
+    padding-left: 900px;
+    color: white;
+    margin-top: 70px;
+}
+.lastone5:hover{
+    color: yellow;
+}
+.lo1{
+    display: grid;
+    grid-template-rows: 15px 30px 10px 30px 20px 100px;
+    gap: 10px;
+    width: 30%;
+    text-align:left;
+}
+.butt1{
+    width: 140px;
+    height: 30px;
+    font-size: 16px;
+}
+.butt1:hover{
+   background-color: yellow;
+}
